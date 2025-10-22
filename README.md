@@ -17,7 +17,7 @@ A simple and creative web app that generates a **multiplication table** for any 
 
 ## 🚀 Live Demo
 Check it out live here 👇  
-👉 [https://nazrulislam1835.github.io/multiplication-table/](https://nazrulislam1835.github.io/multiplication-table/)
+👉 [https://nazrulislam1835.github.io/Multiplication-Table/](https://nazrulislam1835.github.io/Multiplication-Table/)
 
 ---
 
@@ -39,3 +39,4 @@ Check it out live here 👇
 1. Clone this repository:
    ```bash
    git clone https://github.com/nazrulislam1835/multiplication-table.git
+
