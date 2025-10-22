@@ -2,7 +2,7 @@
 
 A simple and creative web app that generates a **multiplication table** for any number you enter — with a beautiful animated background and a glowing ripple button.
 
-![Preview Screenshot](./images/screenshot.png)
+![Preview Screenshot](images/screenshot.png)
 
 ---
 
@@ -39,4 +39,5 @@ Check it out live here 👇
 1. Clone this repository:
    ```bash
    git clone https://github.com/nazrulislam1835/multiplication-table.git
+
 
