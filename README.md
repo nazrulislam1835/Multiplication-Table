@@ -38,7 +38,8 @@ Check it out live here 👇
 ## 🛠️ Installation (for local use)
 1. Clone this repository:
    ```bash
-   git clone https://github.com/nazrulislam1835/multiplication-table.git
+   git clone https://github.com/nazrulislam1835/Multiplication-Table.git
+
 
 
 
